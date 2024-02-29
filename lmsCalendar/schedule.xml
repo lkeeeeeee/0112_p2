@@ -1,0 +1,76 @@
+<schedules>
+    <schedule id="1">
+        <title>&#51060;&#47141;&#49436; &#51217;&#49688;&#44592;&#44036;</title>
+        <start>2024-05-02</start>
+        <end>2024-05-06T10:00:00</end>
+        <status>0</status>
+    </schedule>
+    <schedule id="2">
+        <title>&#52572;&#51333;&#54532;&#47196;&#51229;&#53944;&#48156;&#54364;11</title>
+        <start>2024-02-05</start>
+        <end>2024-02-06</end>
+        <status>1</status>
+    </schedule>
+    <schedule id="3">
+        <title>&#53580;&#49828;&#53944;</title>
+        <start>2024-01-05</start>
+        <end>2024-01-06T10:00:00</end>
+        <status>1</status>
+    </schedule>
+    <schedule id="4">
+        <title>1111</title>
+        <start>2024-02-08</start>
+        <end>2024-02-10</end>
+        <color>#154790</color>
+        <textColor>white</textColor>
+        <status>1</status>
+    </schedule>
+    <schedule id="5">
+        <title>1111</title>
+        <start>2024-02-15</start>
+        <end>2024-02-17</end>
+        <color>#154790</color>
+        <textColor>white</textColor>
+        <status>0</status>
+    </schedule>
+    <schedule id="6">
+        <title>2222</title>
+        <start>2024-02-02</start>
+        <end>2024-02-03</end>
+        <color>#154790</color>
+        <textColor>white</textColor>
+        <status>0</status>
+    </schedule>
+    <schedule id="7">
+        <title>111111</title>
+        <start>2024-02-03</start>
+        <end>2024-02-04</end>
+        <color>#154790</color>
+        <textColor>white</textColor>
+        <status>0</status>
+    </schedule>
+    <schedule id="8">
+        <title>1111</title>
+        <start>2024-02-07</start>
+        <end>2024-02-09</end>
+        <color>#154790</color>
+        <textColor>white</textColor>
+        <status>1</status>
+    </schedule>
+    <schedule id="9">
+        <title>1111</title>
+        <start>2024-02-07</start>
+        <end>2024-02-09</end>
+        <color>#154790</color>
+        <textColor>white</textColor>
+        <status>0</status>
+    </schedule>
+    <schedule id="10">
+        <title>1111</title>
+        <start>2023-12-07</start>
+        <end>2023-12-09</end>
+        <color>#154790</color>
+        <textColor>white</textColor>
+        <status>0</status>
+    </schedule>
+</schedules>
